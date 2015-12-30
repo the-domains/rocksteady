@@ -1,7 +1,7 @@
 name: Rocksteady
 favicon: null
-layout_spectrum: 0.9289952986873686
-typography_spectrum: 0.5774204996414483
+layout_spectrum: 1
+typography_spectrum: 0.66027
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.23243132745847106
-  lightness: 0.20593091030605137
-  saturation: 0.7927080751396716
-  rhythmicContrast: 0.9565482984762639
+    - '#0b021f'
+    - '#fff1ee'
+    - '#5e1567'
+    - '#bdb1c4'
+    - '#a73a8b'
+  brandStrength: 0.75
+  lightness: 0.625
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
